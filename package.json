@@ -1,6 +1,6 @@
 {
     "name": "docpad-plugin-textile",
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "DocPad plugin that adds the ability to render Textile to HTML",
     "homepage": "https://github.com/Greduan/docpad-plugin-textile",
     "keywords": [
