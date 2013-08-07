@@ -31,5 +31,11 @@
     "dependencies": {
         "textile-js": "0.1.2"
     },
-    "main": "./src/textile.plugin.coffee"
+    "devDependencies": {
+        "coffee-script": "~1.6.x"
+    },
+    "scripts": {
+        "test": "node ./out/textile.test.js"
+    },
+    "main": "./out/textile.plugin.js"
 }
