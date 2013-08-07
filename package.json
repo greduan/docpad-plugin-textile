@@ -31,5 +31,5 @@
     "dependencies": {
         "textile-js": "0.1.2"
     },
-    "main": "./out/textile.plugin.js"
+    "main": "./src/textile.plugin.coffee"
 }
