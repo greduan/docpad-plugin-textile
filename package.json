@@ -1,6 +1,6 @@
 {
     "name": "docpad-plugin-textile",
-    "version": "2.1.0",
+    "version": "2.0.1",
     "description": "DocPad plugin that adds the ability to render Textile to HTML",
     "homepage": "https://github.com/Greduan/docpad-plugin-textile",
     "keywords": [
@@ -10,7 +10,7 @@
         "markup",
         "language"
     ],
-    "author": "Copyright holders name <copyright holder's email> (copyright holder's website url)",
+    "author": "Copyright Eduan Lavaque <eduanlavaque@gmail.com> (http://eduantech.com)",
     "maintainers": [
         "Eduan Lavaque <eduanlavaque@gmail.com> (https://github.com/Greduan)"
     ],
@@ -29,7 +29,7 @@
         "docpad": ">=6.x"
     },
     "dependencies": {
-        "textile-js": "0.1.2"
+        "textile-js": "0.1.x"
     },
     "devDependencies": {
         "coffee-script": "~1.6.x"
